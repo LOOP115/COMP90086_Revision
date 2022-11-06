@@ -21,13 +21,11 @@
 * [Week 2 - Image filtering](Modules/M2.md)
 * [Week 3 - Light, shadow, and edges](Modules/M3.md)
 * [Week 4 - Convolutional neural networks](Modules/M4.md)
-* [Week 5 -Deep learning](Modules/M5.md)
+* [Week 5 - Deep learning](Modules/M5.md)
 * [Week 6 - Feature-matching](Modules/M6.md)
 * [Week 7 - Depth and 3D](Modules/M7.md)
 * [Week 8 - Texture and shape](Modules/M8.md)
 * [Week 9 - Image generation](Modules/M9.md)
 * [Week 10 - Image segmentation](Modules/M10.md)
 * [Week 11 - Object detection](Modules/M11.md)
-
-
 
