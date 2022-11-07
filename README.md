@@ -29,3 +29,4 @@
 * [Week 10 - Image segmentation](Modules/M10.md)
 * [Week 11 - Object detection](Modules/M11.md)
 
+* [Practice Exam](prac.md)
